@@ -1,1 +1,1 @@
-THis site is for clothes shopping!
+This site is for clothes shopping!
